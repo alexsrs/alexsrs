@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| Header | Another header |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsrs&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  | Another header |
 |--- |--- |
       
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsrs&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 <h3 align="center">Lorem ipsum</h3>
 <h3 align="left">Connect with me:</h3>
