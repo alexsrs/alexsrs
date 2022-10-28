@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| Header | Another header | Yet another header |
-|--- |--- |--- |
+| Header | Another header |
+|--- |--- |
       
 
 
