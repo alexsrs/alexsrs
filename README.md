@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsrs&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+     
     </td>
     
     <td style="border: 0";>
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsrs&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
