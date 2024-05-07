@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsrs&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  |  teste |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsrs&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  |  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flavioandrade93&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/flavioandrade93/dio-lab-open-source/) |
 |--- |--- |
       
 <h3 align="left">Connect with me:</h3>
