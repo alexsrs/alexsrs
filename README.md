@@ -8,7 +8,7 @@ Rio de Janeiro, Brasil
 
 ## 🧑‍💻 Sobre mim
 
-Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informação, com forte atuação em infraestrutura, automação, segurança de rede e suporte à área de desenvolvimento. Tenho foco em melhoria contínua, integração de sistemas e alta disponibilidade. Apaixonado por inovação, participo de comunidades técnicas e iniciativas educacionais como o DIO Campus Expert. Busco contribuir com times ágeis, promovendo estabilidade e escalabilidade em ambientes de missão crítica.
+Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informação, com forte atuação em infraestrutura, automação, segurança de rede e suporte à área de desenvolvimento.[...]
 
 ---
 
@@ -16,7 +16,7 @@ Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informa
 
 ![AWS Certified](https://img.shields.io/badge/AWS%20Certified-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Microsoft Certified](https://img.shields.io/badge/Microsoft%20Certified-0078D4?style=flat&logo=microsoft&logoColor=white)
-![DIO Campus Expert](https://img.shields.io/badge/DIO%20Campus%20Expert-EC407A?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHJ4PSIxNiIgZmlsbD0iIzI3QUQ0QiIvPjxwYXRoIGQ9Ik0yMy4wMjIxIDcuNjU2ODdIMTMuNDU2VjE1LjY0NEgyMy4wMjIxVjcuNjU2ODdaTTEzLjQ1NiAyNC4zMzcxSDIzLjAyMjFWMjAuMDEzSDcuNjU2ODdWMjQuMzM3MUgxMy40NTZaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==)
+![DIO Campus Expert](https://img.shields.io/badge/DIO%20Campus%20Expert-EC407A?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9[...]
 ![DevOps](https://img.shields.io/badge/DevOps-000000?style=flat&logo=devops&logoColor=white)
 ![Kubernetes Community](https://img.shields.io/badge/Kubernetes%20Community-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
@@ -67,10 +67,10 @@ Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informa
 
 ## 📈 Estatísticas GitHub
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsrs&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  |  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alexsrs&repo=alexsrs&theme=radical)](https://github.com/alexsrs/alexsrs) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsrs&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  |  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alexsrs&repo=aws-terraform-iac&theme=radical)](https://github.com/alexsrs/aws-terraform-iac) |
 |--- |--- |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexsrs&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexsrs&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=alexsrs&hide_border=true&theme=radical) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexsrs&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexsrs&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexsrs&theme=nord_dark) |
 | :-: | :-: | :-: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexsrs&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=alexsrs&hide_border=true&theme=radical) |
@@ -84,7 +84,6 @@ Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informa
   <a href="https://linkedin.com/in/alex4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="alex4" height="30" width="40" /></a>
   <a href="https://twitter.com/alexsrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexsrs" height="30" width="40" /></a>
   <a href="https://instagram.com/alexsrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexsrs" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/6086834" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stackoverflow.svg" alt="6086834" height="30" width="40" /></a>
   <a href="https://fb.com/alexsrsouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alexsrsouza" height="30" width="40" /></a>
   <a href="https://www.youtube.com/alexsrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alexsrs" height="30" width="40" /></a>
 </p>
@@ -95,8 +94,6 @@ Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informa
 
 - Pós-graduação Lato Sensu, DevOps – Estácio (2025)
 - Bacharelado, Análise de Sistemas de Computação – Estácio (2017 - 2019)
-- Tecnologia da Informação – Centro Universitário da Cidade (2003 - 2004)
-- Técnico em Administração – Colégio Estadual João Alfredo (1995 - 1999)
 
 ---
 
