@@ -1,42 +1,107 @@
-### Hi there 👋
-## 👨🏻‍💻Eu sou Alex Sandro
-
-
-
-
-<!--
-**alexsrs/alexsrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsrs&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  |  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alexsrs&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/alexsrs/dio-lab-open-source/) |
-|--- |--- |
-      
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alexsrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexsrs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alex4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex4/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/6086834" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6086834" height="30" width="40" /></a>
-<a href="https://fb.com/alexsrsouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alexsrsouza" height="30" width="40" /></a>
-<a href="https://instagram.com/alexsrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexsrs" height="30" width="40" /></a>
-<a href="https://www.youtube.com/alexsrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alexsrs" height="30" width="40" /></a>
+<h1 align="center">Olá, eu sou o Alex Sandro 👋</h1>
+<p align="center">
+Especialista DevOps | +15 anos em TI | Automação de Infraestrutura (IaC) | Pipelines CI/CD | Cloud AWS/Azure | Containers & Orquestração (Docker/K8s) | GitOps | SRE & Observabilidade  
+Rio de Janeiro, Brasil
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> </p> 
+---
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexsrs&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexsrs&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexsrs&theme=nord_dark) |
+## 🧑‍💻 Sobre mim
+
+Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informação, com forte atuação em infraestrutura, automação, segurança de rede e suporte à área de desenvolvimento. Tenho foco em melhoria contínua, integração de sistemas e alta disponibilidade. Apaixonado por inovação, participo de comunidades técnicas e iniciativas educacionais como o DIO Campus Expert. Busco contribuir com times ágeis, promovendo estabilidade e escalabilidade em ambientes de missão crítica.
+
+---
+
+## 🏅 Certificações & Comunidades
+
+![AWS Certified](https://img.shields.io/badge/AWS%20Certified-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Microsoft Certified](https://img.shields.io/badge/Microsoft%20Certified-0078D4?style=flat&logo=microsoft&logoColor=white)
+![DIO Campus Expert](https://img.shields.io/badge/DIO%20Campus%20Expert-EC407A?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHJ4PSIxNiIgZmlsbD0iIzI3QUQ0QiIvPjxwYXRoIGQ9Ik0yMy4wMjIxIDcuNjU2ODdIMTMuNDU2VjE1LjY0NEgyMy4wMjIxVjcuNjU2ODdaTTEzLjQ1NiAyNC4zMzcxSDIzLjAyMjFWMjAuMDEzSDcuNjU2ODdWMjQuMzM3MUgxMy40NTZaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==)
+![DevOps](https://img.shields.io/badge/DevOps-000000?style=flat&logo=devops&logoColor=white)
+![Kubernetes Community](https://img.shields.io/badge/Kubernetes%20Community-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+---
+
+## 🛠️ Principais Skills e Ferramentas
+
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-1.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="Ansible" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="Windows" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="SQL Server" width="40" height="40"/>
+</p>
+
+- **Cloud:** AWS, Azure
+- **Containers & Orquestração:** Docker, Kubernetes
+- **CI/CD & IaC:** GitHub Actions, GitLab CI, Jenkins, Terraform, Ansible
+- **Monitoramento:** Grafana, Zabbix
+- **Sistemas:** Linux, Windows Server
+- **Redes & Segurança:** Firewalls, Switches, VPN, Active Directory, LGPD
+- **Banco de Dados:** MySQL, SQL Server
+- **Outros:** GitOps, SRE, Observabilidade, Shell Script, PowerShell
+
+---
+
+## 🚀 Projetos em destaque
+
+- [**Infraestrutura como Código - Exemplo AWS Terraform**](https://github.com/alexsrs/aws-terraform-iac)  
+  Exemplo prático de provisão de infraestrutura AWS usando Terraform.  
+  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+
+- [**CI/CD com GitHub Actions**](https://github.com/alexsrs/github-actions-cicd)  
+  Pipeline completo de integração e entrega contínua.  
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+- [**Monitoramento com Grafana e Zabbix**](https://github.com/alexsrs/grafana-zabbix-monitoring)  
+  Modelos e scripts para observabilidade em ambientes críticos.  
+  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+  ![Zabbix](https://img.shields.io/badge/Zabbix-E94D2A?style=flat&logo=zabbix&logoColor=white)
+
+---
+
+## 📈 Estatísticas GitHub
+
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsrs&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  |  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alexsrs&repo=alexsrs&theme=radical)](https://github.com/alexsrs/alexsrs) |
+|--- |--- |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexsrs&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexsrs&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=alexsrs&hide_border=true&theme=radical) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexsrs&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=alexsrs&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexsrs&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=alexsrs&hide_border=true&theme=radical) |
 | :-: | :-: |
+
+---
+
+## 🌐 Onde me encontrar
+
+<p align="left">
+  <a href="https://linkedin.com/in/alex4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="alex4" height="30" width="40" /></a>
+  <a href="https://twitter.com/alexsrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexsrs" height="30" width="40" /></a>
+  <a href="https://instagram.com/alexsrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexsrs" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/6086834" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stackoverflow.svg" alt="6086834" height="30" width="40" /></a>
+  <a href="https://fb.com/alexsrsouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alexsrsouza" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/alexsrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alexsrs" height="30" width="40" /></a>
+</p>
+
+---
+
+## 📚 Formação
+
+- Pós-graduação Lato Sensu, DevOps – Estácio (2025)
+- Bacharelado, Análise de Sistemas de Computação – Estácio (2017 - 2019)
+- Tecnologia da Informação – Centro Universitário da Cidade (2003 - 2004)
+- Técnico em Administração – Colégio Estadual João Alfredo (1995 - 1999)
+
+---
+
+<details>
+  <summary>Ver mais sobre minha experiência profissional</summary>
+  
+  <!-- Aqui você pode adicionar um resumo detalhado das experiências, igual ao LinkedIn, se desejar -->
+</details>
