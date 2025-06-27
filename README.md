@@ -23,16 +23,16 @@ Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informa
 ## 🛠️ Principais Skills e Ferramentas
 
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-1.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="Ansible" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="Windows" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="SQL Server" width="40" height="40"/>
+<img alt="AWS" src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-1.svg">
+<img alt="Azure" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftazure.svg">
+<img alt="Docker" src="https://cdn.worldvectorlogo.com/logos/docker.svg">
+<img alt="Kubernetes" src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg">
+<img alt="Terraform" src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg">
+<img alt="Ansible" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/ansible.svg">
+<img alt="Linux" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg">
+<img alt="Windows" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/windows.svg">
+<img alt="MySQL" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg">
+<!-- SQL Server: No official icon available -->
 </p>
 
 - **Cloud:** AWS, Azure
