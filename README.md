@@ -14,9 +14,7 @@ Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informa
 
 ## 🏅 Certificações & Comunidades
 
-![AWS Certified](https://img.shields.io/badge/AWS%20Certified-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Microsoft Certified](https://img.shields.io/badge/Microsoft%20Certified-0078D4?style=flat&logo=microsoft&logoColor=white)
-![DIO Campus Expert](https://img.shields.io/badge/DIO%20Campus%20Expert-EC407A?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9[...]
+![DIO Campus Expert](https://img.shields.io/badge/DIO%20Campus%20Expert-EC407A?style=flat&logo=microsoft&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-000000?style=flat&logo=devops&logoColor=white)
 ![Kubernetes Community](https://img.shields.io/badge/Kubernetes%20Community-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
