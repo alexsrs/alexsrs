@@ -23,6 +23,7 @@ Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informa
 ## 🛠️ Principais Skills e Ferramentas
 
 <p align="left">
+
   <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-1.svg" alt="AWS" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40" height="40"/>
@@ -34,6 +35,7 @@ Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informa
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="SQL Server" width="40" height="40"/>
   <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/postgresql.svg" width="40" height="40"/>
+
 </p>
 
 - **Cloud:** AWS, Azure
