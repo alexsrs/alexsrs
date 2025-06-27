@@ -33,6 +33,7 @@ Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informa
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="Windows" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="SQL Server" width="40" height="40"/>
+  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/postgresql.svg" width="40" height="40"/>
 </p>
 
 - **Cloud:** AWS, Azure
@@ -41,7 +42,7 @@ Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informa
 - **Monitoramento:** Grafana, Zabbix
 - **Sistemas:** Linux, Windows Server
 - **Redes & Segurança:** Firewalls, Switches, VPN, Active Directory, LGPD
-- **Banco de Dados:** MySQL, SQL Server
+- **Banco de Dados:** MySQL, SQL Server, PostgreSQL
 - **Outros:** GitOps, SRE, Observabilidade, Shell Script, PowerShell
 
 ---
