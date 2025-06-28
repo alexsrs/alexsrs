@@ -24,17 +24,17 @@ Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informa
 
 <p align="left">
 
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Azure.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Kubernetes.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/AWS.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Azure.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Docker.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Kubernetes.svg" alt="Kubernetes" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="Ansible" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linux.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Windows.svg" alt="Windows" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQL%20Server.svg" alt="SQL Server" width="40" height="40"/>
-  <img alt="PostgreSQL" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Linux.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Windows.svg" alt="Windows" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/MySQL.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/SQL%20Server.svg" alt="SQL Server" width="40" height="40"/>
+  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Postgresql.svg" width="40" height="40"/>
 
 </p>
 
@@ -84,11 +84,11 @@ Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informa
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://linkedin.com/in/alex4/" target="blank"><img align="center" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg" alt="alex4" height="30" width="40" /></a>
-  <a href="https://twitter.com/alexsrs" target="blank"><img align="center" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Twitter.svg" alt="alexsrs" height="30" width="40" /></a>
-  <a href="https://instagram.com/alexsrs" target="blank"><img align="center" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Instagram.svg" alt="alexsrs" height="30" width="40" /></a>
-  <a href="https://fb.com/alexsrsouza" target="blank"><img align="center" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Facebook.svg" alt="alexsrsouza" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/alexsrs" target="blank"><img align="center" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Youtube.svg" alt="alexsrs" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/alex4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Linkedin.svg" alt="alex4" height="30" width="40" /></a>
+  <a href="https://twitter.com/alexsrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Twitter.svg" alt="alexsrs" height="30" width="40" /></a>
+  <a href="https://instagram.com/alexsrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Instagram.svg" alt="alexsrs" height="30" width="40" /></a>
+  <a href="https://fb.com/alexsrsouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Facebook.svg" alt="alexsrsouza" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/alexsrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Youtube.svg" alt="alexsrs" height="30" width="40" /></a>
 </p>
 
 ---
@@ -102,12 +102,12 @@ Este README utiliza ícones do repositório [@gui-bus/TechIcons](https://github.
 Para referenciar um ícone do TechIcons em seu próprio README, use a seguinte sintaxe:
 
 ```html
-<img src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg" alt="[Icon]" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/[Theme]/[Icon].svg" alt="[Icon]" width="40" height="40"/>
 ```
 
 **Exemplo:**
 ```html
-<img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg" alt="AWS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/AWS.svg" alt="AWS" width="40" height="40"/>
 ```
 
 ### Limitações
