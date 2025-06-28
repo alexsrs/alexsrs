@@ -85,6 +85,18 @@ Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informa
 
 **Banco de Dados:** MySQL, SQL Server, PostgreSQL
 
+### 🌐 Desenvolvimento Web
+<p align="left">
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NextJS.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg" alt="React" width="40" height="40"/>
+</p>
+
+**Desenvolvimento Web:** HTML5, CSS, JavaScript, Node.js, Next.js, React
+
 ### ⚙️ Outros
 <p align="left">
   <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Bash.svg" alt="Shell Script" width="40" height="40"/>
