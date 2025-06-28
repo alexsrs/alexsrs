@@ -55,8 +55,8 @@ Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informa
   Exemplo prático de provisão de infraestrutura AWS usando Terraform.  
   ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
-- [**CI/CD com GitHub Actions**](https://github.com/alexsrs/github-actions-cicd)  
-  Pipeline completo de integração e entrega contínua.  
+- [**CI/CD com GitHub Actions**](https://github.com/alexsrs/apc-fit-pro)  
+  Exemplo real de pipeline completo de integração e entrega contínua, demonstrando minhas habilidades práticas em CI/CD no projeto apc-fit-pro.  
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 - [**Monitoramento com Grafana e Zabbix**](https://github.com/alexsrs/grafana-zabbix-monitoring)  
