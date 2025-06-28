@@ -22,30 +22,79 @@ Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informa
 
 ## 🛠️ Principais Skills e Ferramentas
 
+### ☁️ Cloud
 <p align="left">
-
   <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg" alt="AWS" width="40" height="40"/>
   <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Azure.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Kubernetes.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="Ansible" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linux.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Windows.svg" alt="Windows" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQL%20Server.svg" alt="SQL Server" width="40" height="40"/>
-  <img alt="PostgreSQL" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg" width="40" height="40"/>
-
 </p>
 
-- **Cloud:** AWS, Azure
-- **Containers & Orquestração:** Docker, Kubernetes
-- **CI/CD & IaC:** GitHub Actions, GitLab CI, Jenkins, Terraform, Ansible
-- **Monitoramento:** Grafana, Zabbix
-- **Sistemas:** Linux, Windows Server
-- **Redes & Segurança:** Firewalls, Switches, VPN, Active Directory, LGPD
-- **Banco de Dados:** MySQL, SQL Server, PostgreSQL
-- **Outros:** GitOps, SRE, Observabilidade, Shell Script, PowerShell
+**Cloud:** AWS, Azure
+
+### 📦 Containers & Orquestração
+<p align="left">
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Kubernetes.svg" alt="Kubernetes" width="40" height="40"/>
+</p>
+
+**Containers & Orquestração:** Docker, Kubernetes
+
+### 🔄 CI/CD & IaC
+<p align="left">
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Github.svg" alt="GitHub Actions" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gitlab.svg" alt="GitLab CI" width="40" height="40"/>
+  🏗️ Jenkins
+  <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="Ansible" width="40" height="40"/>
+</p>
+
+**CI/CD & IaC:** GitHub Actions, GitLab CI, Jenkins, Terraform, Ansible
+
+### 📊 Monitoramento
+<p align="left">
+  📊 Grafana
+  📈 Zabbix
+</p>
+
+**Monitoramento:** Grafana, Zabbix
+
+### 🖥️ Sistemas
+<p align="left">
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linux.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Windows.svg" alt="Windows Server" width="40" height="40"/>
+</p>
+
+**Sistemas:** Linux, Windows Server
+
+### 🔐 Redes & Segurança
+<p align="left">
+  🔥 Firewalls
+  🔌 Switches
+  🔒 VPN
+  📁 Active Directory
+  📋 LGPD
+</p>
+
+**Redes & Segurança:** Firewalls, Switches, VPN, Active Directory, LGPD
+
+### 🗄️ Banco de Dados
+<p align="left">
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQL%20Server.svg" alt="SQL Server" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
+</p>
+
+**Banco de Dados:** MySQL, SQL Server, PostgreSQL
+
+### ⚙️ Outros
+<p align="left">
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Bash.svg" alt="Shell Script" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Powershell.svg" alt="PowerShell" width="40" height="40"/>
+  ⚙️ GitOps
+  📊 SRE
+  👁️ Observabilidade
+</p>
+
+**Outros:** GitOps, SRE, Observabilidade, Shell Script, PowerShell
 
 ---
 
