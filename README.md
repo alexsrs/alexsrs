@@ -8,7 +8,14 @@ Rio de Janeiro, Brasil
 
 ## 🧑‍💻 Sobre mim
 
-Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informação, com forte atuação em infraestrutura, automação, segurança de rede e suporte à área de desenvolvimento.[...]
+Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informação, com forte atuação em infraestrutura, automação, segurança de rede e suporte à área de desenvolvimento. Experiência comprovada em projetos de Cloud, IaC, CI/CD, containers, observabilidade e colaboração com equipes multidisciplinares.
+
+---
+
+## 📚 Formação
+
+- Pós-graduação Lato Sensu, DevOps – Estácio (2025)
+- Bacharelado, Análise de Sistemas de Computação – Estácio (2017 - 2019)
 
 ---
 
@@ -23,50 +30,56 @@ Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informa
 ## 🛠️ Principais Skills e Ferramentas
 
 <p align="left">
-
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Azure.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Kubernetes.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="Ansible" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linux.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Windows.svg" alt="Windows" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQL%20Server.svg" alt="SQL Server" width="40" height="40"/>
-  <img alt="PostgreSQL" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg" width="40" height="40"/>
   <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg" alt="CSS" width="40" height="40"/>
   <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg" alt="JavaScript" width="40" height="40"/>
-
   <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NextJS.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg" alt="React" width="40" height="40"/>
-
-
 </p>
 
-- **Cloud:** AWS, Azure
-- **Containers & Orquestração:** Docker, Kubernetes
-- **CI/CD & IaC:** GitHub Actions, GitLab CI, Jenkins, Terraform, Ansible
+- **Cloud:** AWS, Azure  
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Azure.svg" alt="Azure" width="40" height="40"/>
+- **Containers & Orquestração:** Docker, Kubernetes  
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Kubernetes.svg" alt="Kubernetes" width="40" height="40"/>
+- **CI/CD & IaC:** GitHub Actions, GitLab CI, Jenkins, Terraform, Ansible  
+  <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="Ansible" width="40" height="40"/>
 - **Monitoramento:** Grafana, Zabbix
-- **Sistemas:** Linux, Windows Server
+- **Sistemas:** Linux, Windows Server  
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linux.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Windows.svg" alt="Windows" width="40" height="40"/>
 - **Redes & Segurança:** Firewalls, Switches, VPN, Active Directory, LGPD
-- **Banco de Dados:** MySQL, SQL Server, PostgreSQL
+- **Banco de Dados:** MySQL, SQL Server, PostgreSQL  
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQL%20Server.svg" alt="SQL Server" width="40" height="40"/>
+  <img alt="PostgreSQL" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg" width="40" height="40"/>
+
+- **Dev FullStack:** Experiência com desenvolvimento web moderno, atuando tanto no front-end quanto no back-end
+  Stacks: HTML5, CSS3, JavaScript, Node.js, React, Next.js, TypeScript, Express, API Rest
+- **Destaques:**
+
+  - Integração de front-end React/Next.js com back-end Node.js/Express
+  - Construção de APIs RESTful escaláveis
+  - Utilização de TypeScript para maior robustez e manutenibilidade
+  - Boas práticas de versionamento, testes e automação de deploy
+
 - **Outros:** GitOps, SRE, Observabilidade, Shell Script, PowerShell
 
 ---
 
+## 👨‍💻 Dev FullStack
+
 ## 🚀 Projetos em destaque
 
 - [**Infraestrutura como Código - Exemplo AWS Terraform**](https://github.com/alexsrs/redmine-ai-reporter)  
-  Exemplo prático de provisão e gestão de infraestrutura na Azure utilizando o conceito de IaC (Infrastructure as Code) com Terraform. O projeto demonstra como automatizar, versionar e escalar recursos em nuvem de forma segura, reprodutível e eficiente, integrando automação de ambientes
-
+  Exemplo prático de provisão e gestão de infraestrutura utilizando o conceito de IaC (Infrastructure as Code) com Terraform.
   ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
 - [**CI/CD com GitHub Actions**](https://github.com/alexsrs/apc-fit-pro)  
-  Exemplo real de pipeline completo de integração e entrega contínua, aplicado no projeto apc-fit-pro, que utiliza Node.js, TypeScript, Next.js, Express, Prisma e PostgreSQL, além de automação de testes, deploy e boas práticas de desenvolvimento moderno.
-  
+  Pipeline completo de integração e entrega contínua, aplicado no projeto apc-fit-pro, utilizando Node.js, TypeScript, Next.js, Express, Prisma e PostgreSQL, incluindo automação de testes, deploy e boas práticas de desenvolvimento.
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 - [**Monitoramento com Grafana e Zabbix**](https://github.com/alexsrs/grafana-zabbix-monitoring)  
@@ -78,14 +91,35 @@ Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informa
 
 ## 📈 Estatísticas GitHub
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsrs&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  |  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alexsrs&repo=aws-terraform-iac&theme=radical)](https://github.com/alexsrs/aws-terraform-iac) |
-|--- |--- |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexsrs&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexsrs&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexsrs&theme=nord_dark) |
-| :-: | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexsrs&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=alexsrs&hide_border=true&theme=radical) |
-| :-: | :-: |
+<div align="center">
+    <table style="border-spacing: 20px 10px;">
+      <tr>
+        <td align="center" style="background: #181818; border-radius: 12px; padding: 12px; box-shadow: 0 2px 8px #0002;">
+          <img src="https://github-readme-stats.vercel.app/api?username=alexsrs&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="border-radius:10px;"/>
+        </td>
+        <td align="center" style="background: #181818; border-radius: 12px; padding: 12px; box-shadow: 0 2px 8px #0002;">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexsrs&hide_border=true&theme=tokyonight" alt="GitHub Streak Stats" style="border-radius:10px;"/>
+        </td>
+        <td align="center" style="background: #181818; border-radius: 12px; padding: 12px; box-shadow: 0 2px 8px #0002;">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsrs&langs_count=8&theme=tokyonight&layout=compact" alt="Top Langs" style="border-radius:10px;"/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" style="background: #181818; border-radius: 12px; padding: 12px; box-shadow: 0 2px 8px #0002;">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexsrs&theme=nord_dark" alt="Most Commit Language" style="border-radius:10px;"/>
+        </td>
+        <td align="center" colspan="2" style="background: #181818; border-radius: 12px; padding: 12px; box-shadow: 0 2px 8px #0002;">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexsrs&theme=nord_dark" alt="Profile Details" style="border-radius:10px;"/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" colspan="3" style="background: #181818; border-radius: 12px; padding: 12px; box-shadow: 0 2px 8px #0002;">
+          <img src="https://github-profile-trophy.vercel.app/?username=alexsrs&theme=radical&column=7&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" style="border-radius:10px;"/>
+        </td>
+      </tr>
+    </table>
+</div>
+</div>
 
 ---
 
@@ -101,43 +135,10 @@ Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informa
 
 ---
 
-## 🎨 Sobre os Ícones Utilizados
-
-Este README utiliza ícones do repositório [@gui-bus/TechIcons](https://github.com/gui-bus/TechIcons), que oferece mais de 200 ícones de tecnologias e redes sociais em temas Dark e Light.
-
-### Como usar os TechIcons
-
-Para referenciar um ícone do TechIcons em seu próprio README, use a seguinte sintaxe:
-
-```html
-<img src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg" alt="[Icon]" width="40" height="40"/>
-```
-
-**Exemplo:**
-```html
-<img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg" alt="AWS" width="40" height="40"/>
-```
-
-### Limitações
-
-Como os SVGs do TechIcons não estão disponíveis via CDN pública, esta abordagem requer:
-- Referência direta aos arquivos no repositório GitHub
-- Conexão à internet para visualização dos ícones
-- Para uso local ou em projetos web, considere fazer download dos ícones necessários
-
-**Nota:** Alguns ícones específicos como Terraform e Ansible ainda não estão disponíveis no TechIcons, então mantivemos as referências originais para estes.
-
----
-
-## 📚 Formação
-
-- Pós-graduação Lato Sensu, DevOps – Estácio (2025)
-- Bacharelado, Análise de Sistemas de Computação – Estácio (2017 - 2019)
-
----
-
 <details>
   <summary>Ver mais sobre minha experiência profissional</summary>
   
   <!-- Aqui você pode adicionar um resumo detalhado das experiências, igual ao LinkedIn, se desejar -->
 </details>
+
+---
