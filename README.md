@@ -1,5 +1,5 @@
-<h1 align="center">Olá, eu sou o Alex Sandro 👋</h1>
-<p align="center">
+<h1 align="left">Olá, eu sou o Alex Sandro 👋</h1>
+<p align="justify">
 Especialista DevOps | +15 anos em TI | Automação de Infraestrutura (IaC) | Pipelines CI/CD | Cloud AWS/Azure | Containers & Orquestração (Docker/K8s) | GitOps | SRE & Observabilidade  
 Rio de Janeiro, Brasil
 </p>
@@ -30,12 +30,7 @@ Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informa
 ## 🛠️ Principais Skills e Ferramentas
 
 <p align="left">
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NextJS.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg" alt="React" width="40" height="40"/>
+ 
 </p>
 
 - **Cloud:** AWS, Azure  
@@ -45,32 +40,51 @@ Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informa
   <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg" alt="Docker" width="40" height="40"/>
   <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Kubernetes.svg" alt="Kubernetes" width="40" height="40"/>
 - **CI/CD & IaC:** GitHub Actions, GitLab CI, Jenkins, Terraform, Ansible  
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Github.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gitlab.svg" alt="GitLab CI" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="Ansible" width="40" height="40"/>
-- **Monitoramento:** Grafana, Zabbix
+- **Monitoramento:** Grafana, Zabbix  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
+  <img src="https://images.icon-icons.com/2699/PNG/512/zabbix_logo_icon_167937.png" alt="Zabbix" width="40" height="40"/>
 - **Sistemas:** Linux, Windows Server  
   <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linux.svg" alt="Linux" width="40" height="40"/>
   <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Windows.svg" alt="Windows" width="40" height="40"/>
-- **Redes & Segurança:** Firewalls, Switches, VPN, Active Directory, LGPD
+
 - **Banco de Dados:** MySQL, SQL Server, PostgreSQL  
   <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQL%20Server.svg" alt="SQL Server" width="40" height="40"/>
   <img alt="PostgreSQL" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg" width="40" height="40"/>
 
-- **Dev FullStack:** Experiência com desenvolvimento web moderno, atuando tanto no front-end quanto no back-end
-  Stacks: HTML5, CSS3, JavaScript, Node.js, React, Next.js, TypeScript, Express, API Rest
-- **Destaques:**
+- **Dev FullStack:** Experiência com desenvolvimento web moderno, atuando tanto no front-end quanto no back-end  
+  Stacks: HTML5, CSS3, JavaScript, Node.js, React, Next.js, TypeScript, Express, API Rest, RESTful APIs, Python, Shadcn, Tailwind, Vue, Angular, Prisma, GraphQL, Fastify, Material UI, Swagger, WebSockets, OAuth2, JWT, Microserviços, Serverless.  
+   <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NextJS.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg" alt="React" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ExpressJS.svg" alt="Express" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg" alt="Tailwind" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Vue.svg" alt="Vue" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Angular.svg" alt="Angular" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PrismaORM.svg" alt="Prisma" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GraphQL.svg" alt="GraphQL" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Fastify.svg" alt="Fastify" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Material UI.svg" alt="Material UI" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Next Auth.svg" alt="OAuth2" width="40" height="40"/>
 
+- **Redes & Segurança:** Firewalls, Switches, VPN, Active Directory, LGPD
+- **Outros:** GitOps, SRE, Observabilidade, Shell Script, PowerShell, RabbitMQ
+- **Destaques:**
   - Integração de front-end React/Next.js com back-end Node.js/Express
   - Construção de APIs RESTful escaláveis
   - Utilização de TypeScript para maior robustez e manutenibilidade
   - Boas práticas de versionamento, testes e automação de deploy
 
-- **Outros:** GitOps, SRE, Observabilidade, Shell Script, PowerShell
-
 ---
-
-## 👨‍💻 Dev FullStack
 
 ## 🚀 Projetos em destaque
 
@@ -142,3 +156,4 @@ Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informa
 </details>
 
 ---
+
