@@ -35,6 +35,14 @@ Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informa
   <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQL%20Server.svg" alt="SQL Server" width="40" height="40"/>
   <img alt="PostgreSQL" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg" alt="JavaScript" width="40" height="40"/>
+
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NextJS.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg" alt="React" width="40" height="40"/>
+
 
 </p>
 
@@ -84,11 +92,11 @@ Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informa
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://linkedin.com/in/alex4/" target="blank"><img align="center" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg" alt="alex4" height="30" width="40" /></a>
-  <a href="https://twitter.com/alexsrs" target="blank"><img align="center" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Twitter.svg" alt="alexsrs" height="30" width="40" /></a>
-  <a href="https://instagram.com/alexsrs" target="blank"><img align="center" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Instagram.svg" alt="alexsrs" height="30" width="40" /></a>
-  <a href="https://fb.com/alexsrsouza" target="blank"><img align="center" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Facebook.svg" alt="alexsrsouza" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/alexsrs" target="blank"><img align="center" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Youtube.svg" alt="alexsrs" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/alex4/" target="blank"><img align="center" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Linkedin.svg" alt="alex4" height="30" width="40" /></a>
+  <a href="https://twitter.com/alexsrs" target="blank"><img align="center" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Twitter.svg" alt="alexsrs" height="30" width="40" /></a>
+  <a href="https://instagram.com/alexsrs" target="blank"><img align="center" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Instagram.svg" alt="alexsrs" height="30" width="40" /></a>
+  <a href="https://fb.com/alexsrsouza" target="blank"><img align="center" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Facebook.svg" alt="alexsrsouza" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/alexsrs" target="blank"><img align="center" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Youtube.svg" alt="alexsrs" height="30" width="40" /></a>
 </p>
 
 ---
