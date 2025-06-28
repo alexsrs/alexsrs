@@ -92,7 +92,7 @@ Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informa
 ## 📈 Estatísticas GitHub
 
 <div align="center">
-    <table style="border-spacing: 20px 10px;">
+    <table style="border-spacing: 20px 10px; border: none;">
       <tr>
         <td align="center" style="background: #181818; border-radius: 12px; padding: 12px; box-shadow: 0 2px 8px #0002;">
           <img src="https://github-readme-stats.vercel.app/api?username=alexsrs&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="border-radius:10px;"/>
