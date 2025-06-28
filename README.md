@@ -89,11 +89,11 @@ Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informa
 ## 🚀 Projetos em destaque
 
 - [**Infraestrutura como Código - Exemplo AWS Terraform**](https://github.com/alexsrs/redmine-ai-reporter)  
-  Exemplo prático de provisão e gestão de infraestrutura utilizando o conceito de IaC (Infrastructure as Code) com Terraform.
+  Exemplo prático de provisão e gestão de infraestrutura utilizando o conceito de IaC (Infrastructure as Code) com Terraform.  
   ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
 - [**CI/CD com GitHub Actions**](https://github.com/alexsrs/apc-fit-pro)  
-  Pipeline completo de integração e entrega contínua, aplicado no projeto apc-fit-pro, utilizando Node.js, TypeScript, Next.js, Express, Prisma e PostgreSQL, incluindo automação de testes, deploy e boas práticas de desenvolvimento.
+  Pipeline completo de integração e entrega contínua, aplicado no projeto apc-fit-pro, utilizando Node.js, TypeScript, Next.js, Express, Prisma e PostgreSQL, incluindo automação de testes, deploy e boas práticas de desenvolvimento.  
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 - [**Monitoramento com Grafana e Zabbix**](https://github.com/alexsrs/grafana-zabbix-monitoring)  
