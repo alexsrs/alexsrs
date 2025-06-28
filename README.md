@@ -114,7 +114,7 @@ Sou Analista DevOps com mais de 15 anos de experiência em tecnologia da informa
       </tr>
       <tr>
         <td align="center" colspan="3" style="background: #181818; border-radius: 12px; padding: 12px; box-shadow: 0 2px 8px #0002;">
-          <img src="https://github-profile-trophy.vercel.app/?username=alexsrs&theme=radical&column=7&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" style="border-radius:10px;"/>
+          <img src="https://github-profile-trophy.vercel.app/?username=alexsrs&theme=radical&column=5&no-frame=true&no-bg=false&margin-w=10&margin-h=10" alt="GitHub Trophies" style="border-radius:10px;"/>
         </td>
       </tr>
     </table>
